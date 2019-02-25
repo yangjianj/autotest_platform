@@ -11,5 +11,5 @@ robot framework--提取output.xml文件信息
 pytest--    
 unittest--    
 7.run.py执行文件  
-8.测试条件筛选配置文件(执行那些类型的业务)*。py/*.ini      
-9.配置文件（服务器，用户名等）*。py/*.ini    
+8.测试条件筛选配置文件(执行那些类型的业务)*.py/*.ini      
+9.配置文件（服务器，用户名等）*.py/*.ini    
