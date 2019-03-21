@@ -16,3 +16,5 @@ unittest--
   <value="id=name_id">name<>    
   <>    
 </page>    
+痛点：
+    1.ui自动化页面更改后需更改相应代码
